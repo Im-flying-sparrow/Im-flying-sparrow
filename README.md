@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">My Portpolio</h3>
 [Hyunmu Lee Portpolio](https://github.com/AutoPipo/EasyPipo)
-(fdsa)[https://github.com/AutoPipo/EasyPipo]
+<a href="https://github.com/AutoPipo/EasyPipo">yunmu Lee Portpolio</a>
 
 
 
