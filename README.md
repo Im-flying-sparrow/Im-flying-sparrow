@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/성체 유미" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="성체 유미" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCPyp0GZM3LNe-peQ4X87Iug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="성체 유미" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +31,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-flying-sparrow&show_icons=true&locale=en" alt="im-flying-sparrow" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-flying-sparrow&" alt="im-flying-sparrow" /></p>
